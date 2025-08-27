@@ -11,7 +11,7 @@ Authors: celik1001
 ## Requirements/Dependencies
 - Python3
 - jupyter notebook
-- other libaries installization please follow the jupyter notebook.
+- other libaries installation please follow the jupyter notebook.
 
 ## Installation
 ```
