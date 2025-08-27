@@ -11,7 +11,7 @@ these scripts are used to index Apple Daily (Taiwan).
 ## Requirements/Dependencies
 - Python3
 - jupyter notebook
-other libaries installization please follow the jupyter notebook.
+- other libaries installization please follow the jupyter notebook.
 
 ## Installation
 ```
