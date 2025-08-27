@@ -4,9 +4,9 @@ Web archive indexing scripts for Apple Daily (Taiwan), using Internet Archive CD
 Authors: celik1001
 
 ## Introduction
-these scripts are used to index Apple Daily (Taiwan).
-`catchwaybackurl.ipynb` capture category, date urls
-`catchWaybackcontents.ipynb` scrapping websites contents and transform to ninJS JSON
+- these scripts are used to index Apple Daily (Taiwan).
+- `catchwaybackurl.ipynb` capture category, date urls
+- `catchWaybackcontents.ipynb` scrapping websites contents and transform to ninJS JSON
 
 ## Requirements/Dependencies
 - Python3
